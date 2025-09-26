@@ -1,0 +1,24 @@
+{
+  "originHash" : "08d2b75154cffb9dbb88279becd79f41b9ddea5eaed372e5574e2e3b156ba169",
+  "pins" : [
+    {
+      "identity" : "tinyapi",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/roberthein/tinyAPI",
+      "state" : {
+        "revision" : "e93c7bd1f7f598b38124b874efa14d5846f7007f",
+        "version" : "1.0.1"
+      }
+    },
+    {
+      "identity" : "tinytca",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/roberthein/tinyTCA",
+      "state" : {
+        "revision" : "1cb7706e92e62594b4d9c8a103514b80fae39bb9",
+        "version" : "1.0.5"
+      }
+    }
+  ],
+  "version" : 3
+}
